@@ -1,0 +1,8 @@
+---
+title: "Final Grade Distribution"
+output: pdf_document
+---
+```{r, echo=FALSE}
+load(file="report.Rmd")
+summary(murders)
+```
