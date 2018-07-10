@@ -1,0 +1,5 @@
+Analysis of Gun Murders in the US by the FBI
+
+download-data.R - Downloads data from internet as CSV
+wrangle-data.R - Creates a filtered dataset and saves as RDA file
+analysis.R - Contains plots and other analyses. Saves plots to figs directory.
